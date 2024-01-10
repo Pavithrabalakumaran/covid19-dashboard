@@ -1,0 +1,48 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #161625;
+  padding: 50px;
+  width: 100%;
+}
+
+.footer-heading {
+  font-family: 'Bree-Serif';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  color: white;
+}
+
+.footer-heading-india {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  text-align: center;
+  color: #3b82f6;
+}
+
+.footer-description {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #94a3b8;
+}
+
+.footer-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.footer-icon {
+  height: 30px;
+  color: #94a3b8;
+  width: 117px;
+}
